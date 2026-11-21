@@ -2,7 +2,7 @@
 
 > Đây là phiếu kiểm chéo có hai phần: đã xác minh được bằng manifest/XML/ảnh, và các mục còn phụ thuộc xác nhận trực tiếp trên CVAT. Không dùng cảnh báo lint hoặc suy đoán thay cho xác nhận bằng mắt.
 
-Lô được kiểm (học viên): gia  
+Lô được kiểm (học viên): Đặng Hoàng Gia — mã học viên: 2A202603065  
 Người kiểm (học viên): xuantoan  
 Ngày: 2026-11-21  
 Phiên bản guideline: Road v1.0  

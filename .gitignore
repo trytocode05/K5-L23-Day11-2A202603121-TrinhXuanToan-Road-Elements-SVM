@@ -6,4 +6,5 @@ coach_gt/
 submissions/
 out/
 *.zip
+annotations.xml
 .env
